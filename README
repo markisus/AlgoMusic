@@ -1,0 +1,14 @@
+Uses JFugue and the Apache logger library  
+
+navigate to src  
+Compile Music.java  
+
+To run:  
+java Music  
+
+Then type one of the genre's to hear an on-the-spot composition!  
+
+The program takes one of the midi files, depending on the genre,  
+it parses the midi data using JFugue, and then it constructs a  
+simple Markov model. Then it samples from the Markov model and  
+makes Java sing the notes.

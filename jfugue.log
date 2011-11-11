@@ -1,0 +1,163 @@
+TRACE [main] (MusicStringParser.java:710) - Note number within an octave (C=0, B=11): 11
+TRACE [main] (MusicStringParser.java:892) - Octave: 3
+TRACE [main] (MusicStringParser.java:921) - Computed note number: 47
+TRACE [main] (MusicStringParser.java:1131) - Decimal duration is 0.25
+TRACE [main] (MusicStringParser.java:1132) - Actual duration is 32
+TRACE [main] (MusicStringParser.java:1327) - Attack velocity = 64; Decay velocity = 64
+TRACE [main] (MusicStringParser.java:1377) - Firing first note event
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: @3791
+TRACE [main] (MusicStringParser.java:277) - Time element: time = 3791
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: F#4Q
+TRACE [main] (MusicStringParser.java:609) -  
+TRACE [main] (MusicStringParser.java:610) - --Parsing note from token F#4Q
+TRACE [main] (MusicStringParser.java:710) - Note number within an octave (C=0, B=11): 6
+TRACE [main] (MusicStringParser.java:892) - Octave: 4
+TRACE [main] (MusicStringParser.java:921) - Computed note number: 54
+TRACE [main] (MusicStringParser.java:1131) - Decimal duration is 0.25
+TRACE [main] (MusicStringParser.java:1132) - Actual duration is 32
+TRACE [main] (MusicStringParser.java:1327) - Attack velocity = 64; Decay velocity = 64
+TRACE [main] (MusicStringParser.java:1377) - Firing first note event
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: @3814
+TRACE [main] (MusicStringParser.java:277) - Time element: time = 3814
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: B3Q
+TRACE [main] (MusicStringParser.java:609) -  
+TRACE [main] (MusicStringParser.java:610) - --Parsing note from token B3Q
+TRACE [main] (MusicStringParser.java:710) - Note number within an octave (C=0, B=11): 11
+TRACE [main] (MusicStringParser.java:892) - Octave: 3
+TRACE [main] (MusicStringParser.java:921) - Computed note number: 47
+TRACE [main] (MusicStringParser.java:1131) - Decimal duration is 0.25
+TRACE [main] (MusicStringParser.java:1132) - Actual duration is 32
+TRACE [main] (MusicStringParser.java:1327) - Attack velocity = 64; Decay velocity = 64
+TRACE [main] (MusicStringParser.java:1377) - Firing first note event
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: @3826
+TRACE [main] (MusicStringParser.java:277) - Time element: time = 3826
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: F#4Q
+TRACE [main] (MusicStringParser.java:609) -  
+TRACE [main] (MusicStringParser.java:610) - --Parsing note from token F#4Q
+TRACE [main] (MusicStringParser.java:710) - Note number within an octave (C=0, B=11): 6
+TRACE [main] (MusicStringParser.java:892) - Octave: 4
+TRACE [main] (MusicStringParser.java:921) - Computed note number: 54
+TRACE [main] (MusicStringParser.java:1131) - Decimal duration is 0.25
+TRACE [main] (MusicStringParser.java:1132) - Actual duration is 32
+TRACE [main] (MusicStringParser.java:1327) - Attack velocity = 64; Decay velocity = 64
+TRACE [main] (MusicStringParser.java:1377) - Firing first note event
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: @3849
+TRACE [main] (MusicStringParser.java:277) - Time element: time = 3849
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: G#4Q
+TRACE [main] (MusicStringParser.java:609) -  
+TRACE [main] (MusicStringParser.java:610) - --Parsing note from token G#4Q
+TRACE [main] (MusicStringParser.java:710) - Note number within an octave (C=0, B=11): 8
+TRACE [main] (MusicStringParser.java:892) - Octave: 4
+TRACE [main] (MusicStringParser.java:921) - Computed note number: 56
+TRACE [main] (MusicStringParser.java:1131) - Decimal duration is 0.25
+TRACE [main] (MusicStringParser.java:1132) - Actual duration is 32
+TRACE [main] (MusicStringParser.java:1327) - Attack velocity = 64; Decay velocity = 64
+TRACE [main] (MusicStringParser.java:1377) - Firing first note event
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: @3863
+TRACE [main] (MusicStringParser.java:277) - Time element: time = 3863
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: F#4Q
+TRACE [main] (MusicStringParser.java:609) -  
+TRACE [main] (MusicStringParser.java:610) - --Parsing note from token F#4Q
+TRACE [main] (MusicStringParser.java:710) - Note number within an octave (C=0, B=11): 6
+TRACE [main] (MusicStringParser.java:892) - Octave: 4
+TRACE [main] (MusicStringParser.java:921) - Computed note number: 54
+TRACE [main] (MusicStringParser.java:1131) - Decimal duration is 0.25
+TRACE [main] (MusicStringParser.java:1132) - Actual duration is 32
+TRACE [main] (MusicStringParser.java:1327) - Attack velocity = 64; Decay velocity = 64
+TRACE [main] (MusicStringParser.java:1377) - Firing first note event
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: @3887
+TRACE [main] (MusicStringParser.java:277) - Time element: time = 3887
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: B3Q
+TRACE [main] (MusicStringParser.java:609) -  
+TRACE [main] (MusicStringParser.java:610) - --Parsing note from token B3Q
+TRACE [main] (MusicStringParser.java:710) - Note number within an octave (C=0, B=11): 11
+TRACE [main] (MusicStringParser.java:892) - Octave: 3
+TRACE [main] (MusicStringParser.java:921) - Computed note number: 47
+TRACE [main] (MusicStringParser.java:1131) - Decimal duration is 0.25
+TRACE [main] (MusicStringParser.java:1132) - Actual duration is 32
+TRACE [main] (MusicStringParser.java:1327) - Attack velocity = 64; Decay velocity = 64
+TRACE [main] (MusicStringParser.java:1377) - Firing first note event
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: @3899
+TRACE [main] (MusicStringParser.java:277) - Time element: time = 3899
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: F#4Q
+TRACE [main] (MusicStringParser.java:609) -  
+TRACE [main] (MusicStringParser.java:610) - --Parsing note from token F#4Q
+TRACE [main] (MusicStringParser.java:710) - Note number within an octave (C=0, B=11): 6
+TRACE [main] (MusicStringParser.java:892) - Octave: 4
+TRACE [main] (MusicStringParser.java:921) - Computed note number: 54
+TRACE [main] (MusicStringParser.java:1131) - Decimal duration is 0.25
+TRACE [main] (MusicStringParser.java:1132) - Actual duration is 32
+TRACE [main] (MusicStringParser.java:1327) - Attack velocity = 64; Decay velocity = 64
+TRACE [main] (MusicStringParser.java:1377) - Firing first note event
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: @3921
+TRACE [main] (MusicStringParser.java:277) - Time element: time = 3921
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: G#4Q
+TRACE [main] (MusicStringParser.java:609) -  
+TRACE [main] (MusicStringParser.java:610) - --Parsing note from token G#4Q
+TRACE [main] (MusicStringParser.java:710) - Note number within an octave (C=0, B=11): 8
+TRACE [main] (MusicStringParser.java:892) - Octave: 4
+TRACE [main] (MusicStringParser.java:921) - Computed note number: 56
+TRACE [main] (MusicStringParser.java:1131) - Decimal duration is 0.25
+TRACE [main] (MusicStringParser.java:1132) - Actual duration is 32
+TRACE [main] (MusicStringParser.java:1327) - Attack velocity = 64; Decay velocity = 64
+TRACE [main] (MusicStringParser.java:1377) - Firing first note event
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: @3935
+TRACE [main] (MusicStringParser.java:277) - Time element: time = 3935
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: F#4Q
+TRACE [main] (MusicStringParser.java:609) -  
+TRACE [main] (MusicStringParser.java:610) - --Parsing note from token F#4Q
+TRACE [main] (MusicStringParser.java:710) - Note number within an octave (C=0, B=11): 6
+TRACE [main] (MusicStringParser.java:892) - Octave: 4
+TRACE [main] (MusicStringParser.java:921) - Computed note number: 54
+TRACE [main] (MusicStringParser.java:1131) - Decimal duration is 0.25
+TRACE [main] (MusicStringParser.java:1132) - Actual duration is 32
+TRACE [main] (MusicStringParser.java:1327) - Attack velocity = 64; Decay velocity = 64
+TRACE [main] (MusicStringParser.java:1377) - Firing first note event
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: @3956
+TRACE [main] (MusicStringParser.java:277) - Time element: time = 3956
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: G#4Q
+TRACE [main] (MusicStringParser.java:609) -  
+TRACE [main] (MusicStringParser.java:610) - --Parsing note from token G#4Q
+TRACE [main] (MusicStringParser.java:710) - Note number within an octave (C=0, B=11): 8
+TRACE [main] (MusicStringParser.java:892) - Octave: 4
+TRACE [main] (MusicStringParser.java:921) - Computed note number: 56
+TRACE [main] (MusicStringParser.java:1131) - Decimal duration is 0.25
+TRACE [main] (MusicStringParser.java:1132) - Actual duration is 32
+TRACE [main] (MusicStringParser.java:1327) - Attack velocity = 64; Decay velocity = 64
+TRACE [main] (MusicStringParser.java:1377) - Firing first note event
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: @3969
+TRACE [main] (MusicStringParser.java:277) - Time element: time = 3969
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: F#4Q
+TRACE [main] (MusicStringParser.java:609) -  
+TRACE [main] (MusicStringParser.java:610) - --Parsing note from token F#4Q
+TRACE [main] (MusicStringParser.java:710) - Note number within an octave (C=0, B=11): 6
+TRACE [main] (MusicStringParser.java:892) - Octave: 4
+TRACE [main] (MusicStringParser.java:921) - Computed note number: 54
+TRACE [main] (MusicStringParser.java:1131) - Decimal duration is 0.25
+TRACE [main] (MusicStringParser.java:1132) - Actual duration is 32
+TRACE [main] (MusicStringParser.java:1327) - Attack velocity = 64; Decay velocity = 64
+TRACE [main] (MusicStringParser.java:1377) - Firing first note event
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: @3990
+TRACE [main] (MusicStringParser.java:277) - Time element: time = 3990
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: B3Q
+TRACE [main] (MusicStringParser.java:609) -  
+TRACE [main] (MusicStringParser.java:610) - --Parsing note from token B3Q
+TRACE [main] (MusicStringParser.java:710) - Note number within an octave (C=0, B=11): 11
+TRACE [main] (MusicStringParser.java:892) - Octave: 3
+TRACE [main] (MusicStringParser.java:921) - Computed note number: 47
+TRACE [main] (MusicStringParser.java:1131) - Decimal duration is 0.25
+TRACE [main] (MusicStringParser.java:1132) - Actual duration is 32
+TRACE [main] (MusicStringParser.java:1327) - Attack velocity = 64; Decay velocity = 64
+TRACE [main] (MusicStringParser.java:1377) - Firing first note event
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: @4003
+TRACE [main] (MusicStringParser.java:277) - Time element: time = 4003
+TRACE [main] (MusicStringParser.java:174) - --------Processing Token: F#4Q
+TRACE [main] (MusicStringParser.java:609) -  
+TRACE [main] (MusicStringParser.java:610) - --Parsing note from token F#4Q
+TRACE [main] (MusicStringParser.java:710) - Note number within an octave (C=0, B=11): 6
+TRACE [main] (MusicStringParser.java:892) - Octave: 4
+TRACE [main] (MusicStringParser.java:921) - Computed note number: 54
+TRACE [main] (MusicStringParser.java:1131) - Decimal duration is 0.25
+TRACE [main] (MusicStringParser.java:1132) - Actual duration is 32
+TRACE [main] (MusicStringParser.java:1327) - Attack velocity = 64; Decay velocity = 64
+TRACE [main] (MusicStringParser.java:1377) - Firing first note event
